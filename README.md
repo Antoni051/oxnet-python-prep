@@ -10,7 +10,6 @@ Computing is best learned by doing, and seeking help when you need it. This cour
 1. [Data structures](06%20Data%20structures.ipynb)
 1. [Numerical computation](07%20Numerical%20computation.ipynb)
 1. [Plotting](08%20Plotting.ipynb)
-1. [Error handling and testing](09%20Error%20handling%20and%20testing.ipynb)
 
 
 The notebooks are designed to be completed in order. To complete an activity:
